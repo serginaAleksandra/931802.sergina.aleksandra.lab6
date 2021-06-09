@@ -1,0 +1,16 @@
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.deps.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.dev.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.dll
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.pdb
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.csprojAssemblyReference.cache
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfoInputs.cache
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfo.cs
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.dll
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache
